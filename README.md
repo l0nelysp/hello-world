@@ -1,2 +1,3 @@
 # hello-world
-something new
+
+Hi, guys!
